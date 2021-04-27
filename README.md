@@ -9,7 +9,7 @@ reading name | discription
 [read01](https://abu-nofal.github.io/Reading-notes-201/read01)|Introductory HTML and JavaScript  
 [read02](https://abu-nofal.github.io/Reading-notes-201/read02)|HTML Text, CSS Introduction, and Basic JavaScript Instructions
 [read03](https://abu-nofal.github.io/Reading-notes-201/read03)|HTML Lists, Control Flow with JS, and the CSS Box Model
-[read04](https://abu-nofal.github.io/Reading-notes-201/)|
+[read04](https://abu-nofal.github.io/Reading-notes-201/read04)|HTML Links, JS Functions, and Intro to CSS Layout
 [read05](https://abu-nofal.github.io/Reading-notes-201/)|
 [read06](https://abu-nofal.github.io/Reading-notes-201/)|
 [read07](https://abu-nofal.github.io/Reading-notes-201/)|
