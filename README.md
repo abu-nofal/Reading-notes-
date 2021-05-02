@@ -11,7 +11,7 @@ reading name | discription
 [read03](https://abu-nofal.github.io/Reading-notes-201/read03)|HTML Lists, Control Flow with JS, and the CSS Box Model
 [read04](https://abu-nofal.github.io/Reading-notes-201/read04)|HTML Links, JS Functions, and Intro to CSS Layout
 [read05](https://abu-nofal.github.io/Reading-notes-201/read05)| HTML Images; CSS Color & Text
-[read06](https://abu-nofal.github.io/Reading-notes-201/)|
+[read06](https://abu-nofal.github.io/Reading-notes-201/read06)| Problem Domain, Objects, and the DOM
 [read07](https://abu-nofal.github.io/Reading-notes-201/)|
 [read08](https://abu-nofal.github.io/Reading-notes-201/)|
 [read09](https://abu-nofal.github.io/Reading-notes-201/)|
