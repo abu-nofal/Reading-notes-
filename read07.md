@@ -40,3 +40,81 @@ The codes that generated this table look like this:
 </ TABLE>
 
 This table contains no border, title, or headings. If you wish to add any of these elements to your table, you need to include additional HTML codes. The codes for these elements are explained in the next section.
+
+
+# Object Constructors
+
+> function Person(first, last, age, eye) {
+  this.firstName = first;
+  this.lastName = last;
+  this.age = age;
+  this.eyeColor = eye;
+}
+
+Object Types (Blueprints) (Classes)
+The examples from the previous chapters are limited. They only create single objects.
+
+Sometimes we need a "blueprint" for creating many objects of the same "type".
+
+The way to create an "object type", is to use an object constructor function.
+
+In the example above, function Person() is an object constructor function.
+
+Objects of the same type are created by calling the constructor function with the new keyword:
+> let myFather = new Person("John", "Doe", 50, "blue");
+
+>let myMother = new Person("Sally", "Rally", 48, "green");
+
+The **this** Keyword
+In JavaScript, the thing called **this** is the object that "owns" the code.
+
+The value of **this**, when used in an object, is the object itself.
+
+In a constructor function **this** does not have a value. It is a substitute for the new object. The value of **this** will become the new object when a new object is created.
+
+### Adding a Property to an Object
+Adding a new property to an existing object is easy:
+> myFather.nationality = "English";
+
+### Adding a Method to an Object
+Adding a new method to an existing object is easy:
+> myFather.name = function () {
+  return this.firstName + " " + this.lastName;
+};
+
+## Adding a Property to a Constructor
+
+You cannot add a new property to an object constructor the To add a new property to a constructor, you must add it to the constructor function:
+
+> function Person(first, last, age, eyecolor) {
+  this.firstName = first;
+  this.lastName = last;
+  this.age = age;
+  this.eyeColor = eyecolor;
+  this.nationality = "English";
+}
+
+## Adding a Method to a Constructor
+Your constructor function can also define methods: 
+
+> function Person(first, last, age, eyecolor) {
+  this.firstName = first;
+  this.lastName = last;
+  this.age = age;
+  this.eyeColor = eyecolor;
+  this.name = function() {return this.firstName + " " + this.lastName;};
+}
+You cannot add a new method to an object constructor the same way you add a new method to an existing object.
+
+Adding methods to an object constructor must be done inside the constructor function:
+> function Person(firstName, lastName, age, eyeColor) {
+  this.firstName = firstName; 
+  this.lastName = lastName;
+  this.age = age;
+  this.eyeColor = eyeColor;
+  this.changeName = function (name) {
+    this.lastName = name;
+  };
+}
+
+
