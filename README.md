@@ -13,7 +13,7 @@ Welcome to Code 201! This is a class that builds on your foundational knowledge 
 | [read05](https://abu-nofal.github.io/Reading-notes-201/read05) | HTML Images; CSS Color & Text                                  |
 | [read06](https://abu-nofal.github.io/Reading-notes-201/read06) | Problem Domain, Objects, and the DOM                           |
 | [read07](https://abu-nofal.github.io/Reading-notes-201/read07) | Object-Oriented Programming, HTML Tables                       |
-| [read08](https://abu-nofal.github.io/Reading-notes-201/)       |
+| [read08](https://abu-nofal.github.io/Reading-notes-201/read08)       |CSS Layout
 | [read09](https://abu-nofal.github.io/Reading-notes-201/)       |
 | [read10](https://abu-nofal.github.io/Reading-notes-201/)       |
 | [read11](https://abu-nofal.github.io/Reading-notes-201/)       |
