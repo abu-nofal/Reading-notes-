@@ -16,7 +16,7 @@ Welcome to Code 201! This is a class that builds on your foundational knowledge 
 | [read08](https://abu-nofal.github.io/Reading-notes-201/read08) |CSS Layout
 | [read09](https://abu-nofal.github.io/Reading-notes-201/read09)    |Forms and JS Events
 | [read10](https://abu-nofal.github.io/Reading-notes-201/read10)    |JS Debugging
-| [read11](https://abu-nofal.github.io/Reading-notes-201/)    |
+| [read11](https://abu-nofal.github.io/Reading-notes-201/read11)    |Audio, Video, Images
 | [read12](https://abu-nofal.github.io/Reading-notes-201/)    |
 | [read13](https://abu-nofal.github.io/Reading-notes-201/)    |
 | [read14](https://abu-nofal.github.io/Reading-notes-201/)    |
