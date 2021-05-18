@@ -18,6 +18,6 @@ Welcome to Code 201! This is a class that builds on your foundational knowledge 
 | [read10](https://abu-nofal.github.io/Reading-notes-201/read10)    |JS Debugging
 | [read11](https://abu-nofal.github.io/Reading-notes-201/read11)    |Audio, Video, Images
 | [read12](https://abu-nofal.github.io/Reading-notes-201/read12)    |Chart.js, Canvas
-| [read13](https://abu-nofal.github.io/Reading-notes-201/)    |
+| [read13](https://abu-nofal.github.io/Reading-notes-201/read13)    |Local Storage
 | [read14](https://abu-nofal.github.io/Reading-notes-201/)    |
 | [read15](https://abu-nofal.github.io/Reading-notes-201/)    |
