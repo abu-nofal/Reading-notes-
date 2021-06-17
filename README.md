@@ -1,8 +1,45 @@
-# Code 201: Foundations of Software Development
+hello and  Welcome,  This is a class that builds on your foundational knowledge of HTML, CSS, JavaScript, git, and general web development, to prepare you for the next step.
 
-Welcome to Code 201! This is a class that builds on your foundational knowledge of HTML, CSS, JavaScript, git, and general web development, to prepare you for the nexxt step.
+## Code 401 - Advanced Software Development
 
-> Introduction content :
+## Code 301 - Intermediate Software Development 
+
+## Code 201: Foundations of Software Development
+
+
+> Introduction content : Code 301
+
+| reading name                                                   | discription                                                    |
+| -------------------------------------------------------------- | -------------------------------------------------------------- |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> Introduction content : Code 201
 
 | reading name                                                   | discription                                                    |
 | -------------------------------------------------------------- | -------------------------------------------------------------- |
@@ -21,3 +58,6 @@ Welcome to Code 201! This is a class that builds on your foundational knowledge 
 | [read13](https://abu-nofal.github.io/Reading-notes-201/read13)    |Local Storage
 | [read14](https://abu-nofal.github.io/Reading-notes-201/)    |
 | [read15](https://abu-nofal.github.io/Reading-notes-201/)    |
+
+
+
