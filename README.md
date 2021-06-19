@@ -13,7 +13,7 @@ hello and  Welcome,  This is a class that builds on your foundational knowledge 
 
 | reading name                                                   | discription                                                    |
 | -------------------------------------------------------------- | -------------------------------------------------------------- |
-| [Read01](https://abu-nofal.github.io/Reading-notes-201/Reading-note-301/Read01) |  Introduction to React and Components                            |
+| [Read01](https://abu-nofal.github.io/Reading-notes-/Reading-note-301/Read01) |  Introduction to React and Components                            |
 | [Read02]() |  |
 | [Read03]() |        |
 | [Read04]() |               |

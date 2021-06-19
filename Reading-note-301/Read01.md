@@ -1,6 +1,6 @@
 #  Introduction to React and Components 
 
-> Component Based Architecture 
+> **Component Based Architecture** 
 
 1. What is a component?
 
@@ -11,8 +11,9 @@
 
 
 2. What are the charactistics of a component?
+
 - Reusability 
-  - Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
+  - Components are usually designed to be reused in different situations in different  applications However, some components may be designed for a specific task.  
 
 - Replaceable 
   - Components may be freely substituted with other similar components.
@@ -56,7 +57,7 @@
 - Independent 
   - Independency and flexible connectivity of components. Independent development of components by different group in parallel. Productivity for the software development and future software development.
 
-> Props and How to Use it in React 
+> **Props and How to Use it in React** 
 
 1. What is props short for?
 
@@ -65,10 +66,19 @@
 2. How are props used in React?
 
 (used for passing data from one component to another.)
+
 - Firstly, define an attribute and its value(data)
+
 - Then pass it to child component(s) by using Props
+
 - Finally, render the Props Data
 
 3. What is the flow of props?
 
 (**uni-directional flow**. (one way from parent to child))
+
+
+
+ [refrance01](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
+
+ [refrance02](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
