@@ -18,7 +18,7 @@ hello and  Welcome,  This is a class that builds on your foundational knowledge 
 | [Read03](https://abu-nofal.github.io/Reading-notes-/Reading-note-301/Read03) |  Passing Functions as Props      |
 | [Read04](https://abu-nofal.github.io/Reading-notes-/Reading-note-301/Read04) |  React and Forms             |
 | [Read05](https://abu-nofal.github.io/Reading-notes-/Reading-note-301/Read05)  |Putting it all together                                    |
-| [Read06]() |                           |
+| [Read06](https://abu-nofal.github.io/Reading-notes-/Reading-note-301/Read06) | NODE.JS                          |
 | [Read07]() |                        |
 | [Read08]() |
 | [Read09]() |
