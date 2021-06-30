@@ -21,7 +21,7 @@ hello and  Welcome,  This is a class that builds on your foundational knowledge 
 | [Read06](https://abu-nofal.github.io/Reading-notes-/Reading-note-301/Read06) | NODE.JS                          |
 | [Read07](https://abu-nofal.github.io/Reading-notes-/Reading-note-301/Read07) |REST                        |
 | [Read08](https://abu-nofal.github.io/Reading-notes-/Reading-note-301/Read08) |APIs
-| [Read09]() |
+| [Read09](https://abu-nofal.github.io/Reading-notes-/Reading-note-301/Read09) |FUNCTIONAL PROGRAMMING
 | [Read10]() |
 | [Read11]() |
 | [Read12]() |
