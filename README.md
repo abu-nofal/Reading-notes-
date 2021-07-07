@@ -24,9 +24,9 @@ hello and  Welcome,  This is a class that builds on your foundational knowledge 
 | [Read09](https://abu-nofal.github.io/Reading-notes-/Reading-note-301/Read09) |FUNCTIONAL PROGRAMMING
 | [Read10](https://abu-nofal.github.io/Reading-notes-/Reading-note-301/Read10) |In memory storage
 | [Read11](https://abu-nofal.github.io/Reading-notes-/Reading-note-301/Read11) |Authentication
-| [Read12](https://abu-nofal.github.io/Reading-notes-/Reading-note-301/Read11) |Mongo and Mongoose
-| [Read13]() |
-| [Read14]() |
+| [Read12](https://abu-nofal.github.io/Reading-notes-/Reading-note-301/Read12) |Mongo and Mongoose
+| [Read13](https://abu-nofal.github.io/Reading-notes-/Reading-note-301/Read13) |CRUD
+| [Read14](https://abu-nofal.github.io/Reading-notes-/Reading-note-301/Read14) |Diversity & Inclusion in the Tech Industry
 | [Read15]() |
 
 
