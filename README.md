@@ -13,8 +13,8 @@ hello and  Welcome,  This is a class that builds on your foundational knowledge 
 
 | reading name                                                   | discription                                                    |
 | -------------------------------------------------------------- | -------------------------------------------------------------- |
-| [Read01](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read01) |    Review, Research, and Discussion                        |
-| [Read02](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read02) |  |
+| [Read01](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read01) |    Node Ecosystem, TDD, CI/CD                       |
+| [Read02](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read02) | Express |
 | [Read03](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read03) |       |
 | [Read04](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read04) |               |
 | [Read05](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read05)  |                                  |
