@@ -18,7 +18,7 @@ hello and  Welcome,  This is a class that builds on your foundational knowledge 
 | [Read03](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read03) | Express REST API     |
 | [Read04](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read04) |    Data Modeling           |
 | [Read05](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read05)  |   Linked Lists                               |
-| [Read06](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read06) |                           |
+| [Read06](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read06) |        Authentication                   |
 | [Read07](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read07) |                       |
 | [Read08](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read08) |
 | [Read09](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read09) |
