@@ -19,7 +19,7 @@ hello and  Welcome,  This is a class that builds on your foundational knowledge 
 | [Read04](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read04) |    Data Modeling           |
 | [Read05](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read05)  |   Linked Lists                               |
 | [Read06](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read06) |        Authentication                   |
-| [Read07](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read07) |                       |
+| [Read07](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read07) |       Bearer Authorization                |
 | [Read08](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read08) |
 | [Read09](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read09) |
 | [Read10](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read10) |
