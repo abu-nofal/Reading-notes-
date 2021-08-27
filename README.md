@@ -27,7 +27,18 @@ hello and  Welcome,  This is a class that builds on your foundational knowledge 
 | [Read12](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read12) | Socket.io
 | [Read13](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read13) |Message Queues
 | [Read14](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read14) |Event Driven Architecture
-| [Read15]() |
+| [Read15](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read15) |Trees
+| [Read16](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read16) |
+| [Read17](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read17) |
+| [Read18](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read18) |
+| [Read19](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read19) |
+| [Read20](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read20) |
+| [Read21](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read21) |
+| [Read22](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read22) |
+| [Read23](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read23) |
+| [Read24](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read24) |
+| [Read25](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read25) |
+
 
 
 
