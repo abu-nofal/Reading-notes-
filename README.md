@@ -29,8 +29,8 @@ hello and  Welcome,  This is a class that builds on your foundational knowledge 
 | [Read14](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read14) |Event Driven Architecture
 | [Read15](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read15) |Trees
 | [Read16](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read16) |AWS: Cloud Servers
-| [Read17](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read17) |
-| [Read18](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read18) |
+| [Read17](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read17) |AWS: S3 and Lambda
+| [Read18](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read18) |AWS: API, Dynamo and Lambda
 | [Read19](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read19) |
 | [Read20](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read20) |
 | [Read21](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read21) |
