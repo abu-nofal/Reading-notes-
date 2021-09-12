@@ -1,11 +1,10 @@
-hello and  Welcome,  This is a class that builds on your foundational knowledge of HTML, CSS, JavaScript, git, and general web development, to prepare you for the next step.
+***hello and  Welcome,  This is a class that builds on your foundational knowledge of HTML, CSS, JavaScript, git, and general web development, to prepare you for the next step.***
 
 ## Code 201: Foundations of Software Development
 
-## Code 301 - Intermediate Software Development 
+## Code 301 - Intermediate Software Development
 
 ## Code 401 - Advanced Software Development
-
 
 
 
@@ -32,22 +31,12 @@ hello and  Welcome,  This is a class that builds on your foundational knowledge 
 | [Read17](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read17) |AWS: S3 and Lambda
 | [Read18](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read18) |AWS: API, Dynamo and Lambda
 | [Read19](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read19) |
-| [Read20](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read20) |
-| [Read21](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read21) |
-| [Read22](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read22) |
-| [Read23](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read23) |
-| [Read24](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read24) |
-| [Read25](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read25) |
-
-
-
-
-
-
-
-
-
-
+| [Read26](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read26) |Component Based UI
+| [Read27](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read27) |`useState()` Hook
+| [Read28](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read28) |
+| [Read29](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read29) |
+| [Read30](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read30) |
+| [Read31](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read31) |
 
 > Introduction content : Code 301
 
@@ -69,14 +58,6 @@ hello and  Welcome,  This is a class that builds on your foundational knowledge 
 | [Read14](https://abu-nofal.github.io/Reading-notes-/Reading-note-301/Read14) |Diversity & Inclusion in the Tech Industry
 | [Read15]() |
 
-
-
-
-
-
-
-
-
 > Introduction content : Code 201
 
 | reading name                                                   | discription                                                    |
@@ -95,6 +76,3 @@ hello and  Welcome,  This is a class that builds on your foundational knowledge 
 | [read12](https://abu-nofal.github.io/Reading-notes-201/Reading-note-201/read12)    |Chart.js, Canvas
 | [read13](https://abu-nofal.github.io/Reading-notes-201/Reading-note-201/read13)    |Local Storage
 |
-
-
-
