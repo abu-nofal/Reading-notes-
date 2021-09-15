@@ -34,7 +34,7 @@
 | [Read26](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read26) |Component Based UI
 | [Read27](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read27) |`useState()` Hook
 | [Read28](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read28) |Component Lifecycle / `useEffect()` Hook
-| [Read29](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read29) |
+| [Read29](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read29) |Advanced State with Reducers
 | [Read30](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read30) |
 | [Read31](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read31) |
 
