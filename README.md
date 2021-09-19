@@ -37,7 +37,7 @@
 | [Read29](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read29) |Advanced State with Reducers
 | [Read30](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read30) |Hash Tables
 | [Read31](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read31) |Context API
-| [Read32](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read32) |
+| [Read32](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read32) |Context API - Behaviors
 | [Read33](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read33) |
 | [Read34](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read34) |
 | [Read35](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read35) |
