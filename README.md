@@ -41,7 +41,13 @@
 | [Read33](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read33) |`<Login />` and `<Auth />`
 | [Read34](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read34) |API Integration
 | [Read35](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read35) |Graphs
-| [Read36](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read36) |
+| [Read36](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read36) |Application State with Redux
+| [Read37](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read37) |
+| [Read38](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read38) |
+| [Read39](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read39) |
+| [Read40](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read40) |
+| [Read41](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read41) |
+| [Read42](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read42) |
 
 > Introduction content : Code 301
 
