@@ -43,7 +43,7 @@
 | [Read35](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read35) |Graphs
 | [Read36](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read36) |Application State with Redux
 | [Read37](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read37) |Redux - Combined Reducers
-| [Read38](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read38) |
+| [Read38](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read38) |Redux - Asynchronous Actions
 | [Read39](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read39) |
 | [Read40](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read40) |
 | [Read41](https://abu-nofal.github.io/Reading-notes-/Reading-note-401/Read41) |
