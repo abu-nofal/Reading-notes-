@@ -61,4 +61,4 @@
 - local states
 - asynchronously loaded states
 - partial state updates
-- deeply nested state updates
+- deeply nested state updatess
